@@ -1,0 +1,15 @@
+.imgContainer {
+  width: 100%;
+  position: relative;
+}
+
+.img {
+  object-fit: cover;
+}
+
+.imgText {
+  position: absolute;
+
+  padding: 5px;
+  color: white;
+}
